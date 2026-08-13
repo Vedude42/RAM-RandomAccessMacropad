@@ -15,3 +15,7 @@ A macropad that is used for any random keyboard shortcuts and buttons that I don
 <img width="622" height="539" alt="Screenshot 2026-08-12 210923" src="https://github.com/user-attachments/assets/b3a65994-baa8-4659-96ec-922f22d74a7a" />
 <img width="797" height="542" alt="Screenshot 2026-08-12 210606" src="https://github.com/user-attachments/assets/2ea8f5e3-b88c-4cc0-b803-4ec1d7244227" />
 <img width="666" height="574" alt="Screenshot 2026-08-12 210527" src="https://github.com/user-attachments/assets/1b799033-4664-4d1c-906a-6ec7190a2a9f" />
+# FirmWare
+right now, the firmware is just a numberpad, but when I assemble My macropad I'm going to set it to random miscellaneous shortcuts.
+# Bom
+You can find the Bom in the PCB Folder (Along with a zip file that you can import straight into jlcpcp for fabrication) with the footprints of the parts.

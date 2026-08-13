@@ -31,4 +31,5 @@ right now, the firmware is just a numberpad, but when I assemble My macropad I'm
 # Bom
 
 
-You can find the Bom in the PCB Folder (Along with a zip file that you can import straight into jlcpcp for fabrication) with the footprints of the parts.
+You can find the Bom in the PCB Folder (Along with a zip file that you can import straight into jlcpcp for fabrication) with the footprints of the parts. Krycaps are DSA 1u
+

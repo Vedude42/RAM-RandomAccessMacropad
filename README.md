@@ -5,7 +5,7 @@ A macropad that is used for any random keyboard shortcuts and buttons that I don
 <img width="1183" height="843" alt="Screenshot 2026-08-12 205605" src="https://github.com/user-attachments/assets/fadf8f38-f924-4a49-aaa4-97aee9b95617" />
 <img width="439" height="468" alt="Screenshot 2026-08-12 205628" src="https://github.com/user-attachments/assets/3ddef52b-60d2-4c9d-8f31-a1c0dd519c23" />
 <img width="877" height="950" alt="Screenshot 2026-08-12 205616" src="https://github.com/user-attachments/assets/eb0295d5-544f-4704-8ade-e9d65705c8d2" />
-# PCB
+# Schematics
 
 
 <img width="1202" height="967" alt="Screenshot 2026-08-12 205533" src="https://github.com/user-attachments/assets/b7948374-381d-4629-8200-5b97e490e484" />

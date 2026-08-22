@@ -31,5 +31,11 @@ right now, the firmware is just a numberpad, but when I assemble My macropad I'm
 # Bom
 
 
-You can find the Bom in the PCB Folder (Along with a zip file that you can import straight into jlcpcp for fabrication) with the footprints of the parts. Krycaps are DSA 1u
+You can find the Bom in the PCB Folder (Along with a zip file that you can import straight into jlcpcp for fabrication) with the footprints of the parts. keycaps are DSA 1us
+
+- Seed XIAO RP2040 Microcontroller
+- 16x Mechanical switches
+- 1x 0.91 inch oled display
+- 4 20mm m4 screws
+- 16x dsa keycaps
 
